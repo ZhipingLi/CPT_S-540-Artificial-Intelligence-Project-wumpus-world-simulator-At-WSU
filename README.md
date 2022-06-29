@@ -1,7 +1,7 @@
 # CPT_S 540 Artificial Intelligence Howework#9(Final version)
-## Completed based on Final version of course code assignment
-## Coded based on "Wumpus World Simulator" provided by the course
-## Original contents: Agent.cc and Agent.h files
+* Completed based on Final version of course code assignment
+* Coded based on "Wumpus World Simulator" provided by the course
+* Original contents: Agent.cc and Agent.h files
 
 # Wumpus World Simulator
 
