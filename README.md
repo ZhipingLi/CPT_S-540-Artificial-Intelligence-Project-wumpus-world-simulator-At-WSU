@@ -1,5 +1,5 @@
 # CPT_S 540 Artificial Intelligence Howework#9(Final version) At WSU
-* Final version of coding assignments
+* Final version(of based on C++) of coding assignments
 * Coded based on "Wumpus World Simulator"(https://github.com/holderlb/wumpus-world-simulator) provided by the course
 
 # Wumpus World Simulator
