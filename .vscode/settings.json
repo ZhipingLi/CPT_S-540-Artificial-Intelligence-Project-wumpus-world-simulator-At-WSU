@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "list": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    }
+}
